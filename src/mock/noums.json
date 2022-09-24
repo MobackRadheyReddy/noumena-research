@@ -1,0 +1,21 @@
+[{
+    "title": "N1",
+    "followers": 10,
+    "connections": 12,
+    "type": "PUBLIC",
+    "linkedCount": 2
+},
+{
+    "title": "N2",
+    "followers": 10,
+    "connections": 12,
+    "type": "SECRET",
+    "linkedCount": 0
+},
+{
+    "title": "N3",
+    "followers": 10,
+    "connections": 12,
+    "type": "PRIVATE",
+    "linkedCount": 0
+}]
